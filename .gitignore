@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+
+# PyInstaller build artifacts
+build/
+dist/
+_internal/
+*.spec
+*.exe
+*.dmg
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+
+# Extracted/temp
+extracted/
+
+# IDE
+.vscode/
+.idea/
